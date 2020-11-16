@@ -6,7 +6,7 @@
 
 ## :file_folder: Structure of the repository
 
-As of now, the repository contains 3 main directories:  [**Data Structures**](data_structures) and [**Algorithms**](algorithms).
+As of now, the repository contains 2 main directories:  [**Data Structures**](data_structures) and [**Algorithms**](algorithms).
 
 ### Data Structures
 
