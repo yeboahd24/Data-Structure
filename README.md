@@ -2,15 +2,11 @@
 
 # Python Data Structures and Algorithms
 
-This repository contains questions requiring implementation of  data structures and algorithms concepts. It is useful for interviews in Python.
 
-## :dart: Objective
-
-The open source community has helped me a lot during my interview preparations and studies while I was in my undergrad. I always wanted to give something back to the community. In my endeavour to contribute something back, I will be uploading data structures and algorithms questions in Python in this repo. Feel free to contribute and get in touch! :smiley:
 
 ## :file_folder: Structure of the repository
 
-As of now, the repository contains 3 main directories: [**Bookmarks**](bookmarks), [**Data Structures**](data_structures) and [**Algorithms**](algorithms).
+As of now, the repository contains 3 main directories:  [**Data Structures**](data_structures) and [**Algorithms**](algorithms).
 
 ### Data Structures
 
